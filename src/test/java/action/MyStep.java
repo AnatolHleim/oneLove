@@ -25,4 +25,9 @@ public class MyStep {
     public void bar() {
 
     }
+
+    @And("rule")
+    public void rule() {
+
+    }
 }

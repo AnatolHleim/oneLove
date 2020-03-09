@@ -6,3 +6,4 @@ Feature: SOME
     And get
     And one
     Then bar
+    And rule
