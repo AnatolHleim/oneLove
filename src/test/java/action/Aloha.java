@@ -1,5 +1,7 @@
 package action;
 
+import org.junit.Test;
+
 public class Aloha {
     public static void main(String[] args) {
         System.out.println("done");
@@ -8,5 +10,10 @@ public class Aloha {
     @Override
     public String toString() {
         return super.toString();
+    }
+
+    @Test
+    public void name() {
+        
     }
 }
